@@ -1,1 +1,1 @@
-# computerist.github.io
+# computerist
